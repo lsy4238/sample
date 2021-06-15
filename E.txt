@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 I hate E
+=======
+I love E
+>>>>>>> 7e7b4d91004db6b1c4c2c7e0357cb4001fafc964
